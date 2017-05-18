@@ -1,0 +1,20 @@
+.logo{
+    margin-top: 1em;
+}
+.show-me-where{
+    margin-left: 2em;
+}
+.report-error .report-error__toggle {
+    font-family: "nta",Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.25;
+    font-weight: 300;
+    text-transform: none;
+    color: #454a4c;
+}
+@media (max-width: 475px) {
+    .show-me-where{
+        display: block;
+        margin: 6px 0;
+    }
+}
